@@ -28,15 +28,3 @@ Struktura bazy jest tez w pliku `database.sql`, gdyby trzeba bylo zaimportowac j
 | Administrator | admin@example.com | admin123 |
 | Autor | author@example.com | author123 |
 | Uzytkownik | user@example.com | user123 |
-
-W projekcie sa dodane podstawowe funkcje wymagane dla tematu quiz:
-
-- logowanie zwykle przez email i haslo,
-- proste logowanie spolecznosciowe demo: Google/GitHub (bez prawdziwego OAuth, jako wersja szkolna do pokazania funkcji),
-- pytania jednokrotnego wyboru, wielokrotnego wyboru, otwarte i z luka,
-- podpowiedzi do pytan,
-- ranking globalny i ranking dla konkretnego quizu,
-- odznaki za aktywnosc: pierwszy quiz, 5 quizow i bezbledny wynik,
-- eksport wynikow do CSV,
-- podstawowe ustawienia personalizacji: motyw jasny/ciemny i jezyk PL/EN,
-- panel administratora z zarzadzaniem quizami i uzytkownikami.
