@@ -19,8 +19,6 @@ http://localhost:8000
 
 
 
-Struktura bazy jest tez w pliku `database.sql`, gdyby trzeba bylo zaimportowac ja recznie w phpMyAdmin.
-
 ## Konta testowe
 
 | Rola | Email | Haslo |
